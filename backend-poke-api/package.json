@@ -1,0 +1,17 @@
+{
+  "name": "backend-poke-api",
+  "version": "1.0.0",
+  "description": "Backend Express para API Pokémon",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
